@@ -1,8 +1,3 @@
-This configuration library is dedicated to everyone who is interested in clash-free streaming
-
-
-This configuration is made by Justvoid233 and may not be reproduced without authorization
-
-
+请在遵守当地相关法律法规的前提下使用本项目，我们不为使用此项目内容出现问题负任何责任。
 
 https://t.me/justvoid2333
